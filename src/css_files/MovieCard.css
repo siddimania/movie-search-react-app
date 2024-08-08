@@ -18,7 +18,7 @@
   width: 100%;
   opacity: 0;
   top: 0;
-  color: #66fcf1;
+  color: #c3caf4;
 }
 
 .movie div:nth-of-type(2) {
@@ -33,7 +33,7 @@
 
 .movie div:nth-of-type(3) {
   z-index: 2;
-  background-color: #343739;
+  background-color: #343846;
   padding: 16px 24px 24px 24px;
 
   position: absolute;
@@ -54,7 +54,7 @@
 .movie div:nth-of-type(3) h3 {
   margin-top: 5px;
   font-family: "Roboto Slab", serif;
-  color: #66fcf1;
+  color: #c3caf4;
 }
 
 .movie:hover {
